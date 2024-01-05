@@ -2,7 +2,7 @@
 
 #### My Skills:
 
-<img src="img/python.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/javascript.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/html5.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/css3.svg" width=40, height=40>
+<img src="img/python.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/javascript.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/java.png" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/html5.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/css3.svg" width=40, height=40>
 
 <img src="img/nodedotjs.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/expressJS.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/flask.svg" width=40, height=40>
 
