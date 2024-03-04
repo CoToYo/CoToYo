@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tingyuan(Leon) Cui</h1>
 <p align="center">
-  <img src="./img/IMG_4814.jpg" width="250" style="border-radius:50%; box-shadow: 0 0 10px #000;">
+  <img src="./img/me.jpeg" width="200">
   <br>
   <b>Tingyuan Cui</b><br>
   <sub>Full-stack Engineer | Open Source Contributor</sub>
