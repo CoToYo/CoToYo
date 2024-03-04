@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CoToYo&label=Profile%20views&color=0e75b6&style=flat" alt="CoToYo" /> </p>
 
-- 🔭 I’m currently working on **[Lyre](https://github.com/leaderfun/lyre)**
+- 🔭 I’m currently working on **[Lyre](https://github.com/CoToYo/lyre)**
   - A powerful college application helper powered by **ChatGPT**.
 
 - 🌱 I’m currently learning **React.js**
