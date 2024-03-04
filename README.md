@@ -28,6 +28,7 @@
   - I will contribute to this project as a mentor this year(2024). **If you are interested, feel free to contact me!**
 
 - 📫 How to reach me **cty.works@gmail.com**
+- 😎 My secret land [Come and visit my website!](https://tingyuancui.com/)
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/tingyuan-cui)
 
@@ -52,10 +53,6 @@
 ![icon-name](https://img.shields.io/badge/-Jest-brown?style=flat&logo=Jest&logoColor=white&link=Your-URL)
 ![icon-name](https://img.shields.io/badge/-AWS-darkyellow?style=flat&logo=AmazonAWS&logoColor=white&link=Your-URL)
 ![icon-name](https://img.shields.io/badge/-Git-darkorange?style=flat&logo=Git&logoColor=white&link=Your-URL)
-
-## Connect with me:
-
-[Come and visit my website!](https://tingyuancui.com/)
 
 ## My GitHub Stats:
 <p align="left">
