@@ -58,7 +58,8 @@
 
 ## My GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoToYo&show_icons=true&locale=en&layout=compact">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoToYo&show_icons=true&locale=en&layout=compact"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername">
 </p>
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=CoToYo" />
