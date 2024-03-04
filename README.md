@@ -50,14 +50,10 @@
 [Come and visit my website!](https://tingyuancui.com/)
 
 ## My GitHub Stats:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoToYo&show_icons=true&locale=en&layout=compact">  
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoToYo" />
-  <img src="https://github-readme-stats.vercel.app/api?username=CoToYo&show_icons=true&locale=en">
-</p>
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=CoToYo" />
 </p>
 
