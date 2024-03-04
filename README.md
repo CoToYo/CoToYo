@@ -1,31 +1,68 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Tingyuan(Leon) Cui</h1>
+<h3 align="center">A passionate software developer from Boston U</h3>
+<a href="https://www.linkedin.com/in/tingyuan-cui/">
+  <h3 align="center" >🔥 HIRE ME! I am now open for new job opportunities!</h3>
+</a>
 
-#### My Skills:
+</br>
+</br>
+</br>
 
-<img src="img/python.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/javascript.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/java.png" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/html5.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/css3.svg" width=40, height=40>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoToYo&label=Profile%20views&color=0e75b6&style=flat" alt="CoToYo" /> </p>
 
-<img src="img/nodedotjs.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/expressJS.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/flask.svg" width=40, height=40>
+- 🔭 I’m currently working on **[Lyre](https://github.com/leaderfun/lyre)**
+  - A powerful college application helper powered by **ChatGPT**.
 
-<img src="img/vuedotjs.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/vuetify.svg" width=40, height=40>
+- 🌱 I’m currently learning **React.js**
 
-<img src="img/firebase.svg" width=40, height=40>&nbsp;&nbsp;&nbsp;<img src="img/mongodb.svg" width=40, height=40>
+- 👯 I’m looking to collaborate on **[b0bot - cybersecurity news API](https://github.com/c2siorg/b0bot)**
+  - This is an established project in Google Summer of Code Program.
+  - I will contribute to this project as a mentor this year(2024). **If you are interested, feel free to contact me!**
 
-<img src="img/jest.svg" width=40, height=40> &nbsp;&nbsp;&nbsp;<img src="img/git.svg" width=40, height=40>
+- 📫 How to reach me **cty.works@gmail.com**
 
-<img src="img/openai.svg" width=40, height=40>
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/tingyuan-cui)
 
+- ⚡ Fun fact
+  - **I am Chinese Korean!**
+  - **I speak Mandarin, English and a little Korean.**
 
-<!--
-**CoToYo/CoToYo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages and Tools:
+![icon-name](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-JavaScript-orange?style=flat&logo=JavaScript&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-C++-yellow?style=flat&logo=C&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-Java-brown?style=flat&logo=Java&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-Node.js-green?style=flat&logo=Node.js&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-Express-black?style=flat&logo=Express&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-SpringBoot-green?style=flat&logo=SpringBoot&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-Flask-skyblue?style=flat&logo=Flask&logoColor=white&link=Your-URL)
 
-Here are some ideas to get you started:
+![icon-name](https://img.shields.io/badge/-Docker-blue?style=flat&logo=Docker&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-Kubernetes-skyblue?style=flat&logo=Kubernetes&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=MongoDB&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-Webpack-darkblue?style=flat&logo=Webpack&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-Jest-brown?style=flat&logo=Jest&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-AWS-darkyellow?style=flat&logo=AmazonAWS&logoColor=white&link=Your-URL)
+![icon-name](https://img.shields.io/badge/-Git-darkorange?style=flat&logo=Git&logoColor=white&link=Your-URL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+
+[Come and visit my website!](https://tingyuancui.com/)
+
+## My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CoToYo&show_icons=true&locale=en&layout=compact">  
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoToYo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CoToYo&show_icons=true&locale=en">
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CoToYo" />
+</p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:blog-->
+<!--END_SECTION:blog-->
