@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tingyuan(Leon) Cui</h1>
+<p align="center">
+  <img src="./img/IMG_4814.jpg" width="250" style="border-radius:50%; box-shadow: 0 0 10px #000;">
+  <br>
+  <b>Tingyuan Cui</b><br>
+  <sub>Full-stack Engineer | Open Source Contributor</sub>
+</p>
+
 <h3 align="center">A passionate software developer from Boston U</h3>
 <a href="https://www.linkedin.com/in/tingyuan-cui/">
   <h3 align="center" >🔥 HIRE ME! I am now open for new job opportunities!</h3>
