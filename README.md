@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoToYo&label=Profile%20views&color=0e75b6&style=flat" alt="CoToYo" /> </p>
 <h1 align="center">Hi 👋, I'm Tingyuan(Leon) Cui</h1>
 <p align="center">
   <img src="./img/me.jpeg" width="200">
@@ -6,16 +7,16 @@
   <sub>Full-stack Engineer | Open Source Contributor</sub>
 </p>
 
-<h3 align="center">A passionate software developer from Boston U</h3>
-<a href="https://www.linkedin.com/in/tingyuan-cui/">
-  <h3 align="center" >🔥 HIRE ME! I am now open for new job opportunities!</h3>
-</a>
+<h3 align="center">
+  A passionate software developer from Boston
+</h3>
+<h3 align="center">
+  <a href="https://www.linkedin.com/in/tingyuan-cui/">🔥 HIRE ME! I am now open for new job opportunities!</a>
+</h3>
 
 </br>
 </br>
 </br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoToYo&label=Profile%20views&color=0e75b6&style=flat" alt="CoToYo" /> </p>
 
 - 🔭 I’m currently working on **[Lyre](https://github.com/CoToYo/lyre)**
   - A powerful college application helper powered by **ChatGPT**.
