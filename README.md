@@ -18,14 +18,18 @@
 </br>
 </br>
 
-- 🔭 I’m currently working on **[Lyre](https://github.com/CoToYo/lyre)**
-  - A powerful college application helper powered by **ChatGPT**.
+- 🔭 I’m currently working on **Some AI Agent Projects**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Agent Implementation**
 
-- 👯 I’m looking to collaborate on **[b0bot - cybersecurity news API](https://github.com/c2siorg/b0bot)**
-  - This is an established project in Google Summer of Code Program.
-  - I will contribute to this project as a mentor this year(2024). **If you are interested, feel free to contact me!**
+- 👯 Some of my open source/side projects experiences
+  1. **[b0bot - cybersecurity news API](https://github.com/c2siorg/b0bot)**
+    - This is an established project in Google Summer of Code Program.
+    - Developer of this project (2023).
+    - Mentor of this project (2024).
+  2. **[Foxiapply](https://www.foxiapply.com/)**
+    - An AI-powered college application platform, helping students write application essays, recommendation letters and etc. with the specialized AI assistant.
+    - Full-stack developer (2023-2024)
 
 - 📫 How to reach me **cty.works@gmail.com**
 - 😎 My secret land [Come and visit my website!](https://tingyuancui.com/)
