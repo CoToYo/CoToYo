@@ -37,7 +37,6 @@
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/tingyuan-cui)
 
 - ⚡ Fun fact
-  - **I am Chinese Korean!**
   - **I speak Mandarin, English and a little Korean.**
 
 ## Languages and Tools:
