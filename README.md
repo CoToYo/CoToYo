@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-  A passionate software developer from Boston
+  Always seeking fun and challenging opportunities.
 </h3>
 <h3 align="center">
   <a href="https://www.linkedin.com/in/tingyuan-cui/">🔥 HIRE ME! I am now open for new job opportunities!</a>
